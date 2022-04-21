@@ -23,22 +23,20 @@ export default function Footer() {
                 <a className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                   <span>
                     <img
-                      src="/img/logo.svg"
+                      src="/img/Icon.png"
                       alt="N"
-                      width="32"
-                      height="32"
-                      className="w-8"
+                      width="100"
+                      height="100"
+                      className="h-32 w-40"
                     />
                   </span>
-                  <span>Nextly</span>
+                  {/* <span>Nextly</span> */}
                 </a>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+            Our eminent clientele is spread across the world. Stackroots is your perfect partner to handle your key operations with a passion to deliver prolific results without compromising on quality at any stage.
             </div>
 
             <div className="mt-5">

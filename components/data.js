@@ -11,48 +11,48 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
+  title: "Our Services",
   desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Best Website Design",
+      desc: "We deliver the very best design for our clients. We use latest tools for website design. We can offer best custom web design",
       icon: <EmojiHappyIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Passionate Website Development",
+      desc: "Stackroots keeps young passionate team to deliver the best websites for clients",
       icon: <ChartSquareBarIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "On Time Delivery",
+      desc: "We Stackroots, keep a on time delivery of clients projects. For us your time is so precious.",
       icon: <CursorClickIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
-  image: benefitTwoImg,
+  //title: "Offer more benefits here",
+  // desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Innovation",
+      desc: "With continuous innovation & improvement as our motto. We never just create the product, we place innovation in each products.",
       icon: <DeviceMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Agile Methodologies",
+      desc: "Our approaches use agile development. Requirements and solutions through the collaborative effort of self-organizing and cross-functional teams and their customer/end user.",
       icon: <AdjustmentsIcon />,
     },
-    {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
-      icon: <SunIcon />,
-    },
+    // {
+    //   title: "Dark & Light Mode",
+    //   desc: "Nextly comes with a zero-config light & dark mode. ",
+    //   icon: <SunIcon />,
+    // },
   ],
 };
 
